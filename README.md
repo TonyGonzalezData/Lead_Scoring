@@ -30,7 +30,7 @@ The development of the Discovery project consists of the following structure:
 - **Data Quality**: Data cleaning, including review of data types and transformation of variables, handling of duplicates and null values.
 - **EDA**: Exploraty data analysis of both categorical and numerical variables
 - **Data transforation**: Creation of new variables and encoding of categorical variables.
-- **Unsupervised Modeling**: We generate the unsupervised classification model that allows us to better understand the types of leads we are capturing and the groups in which we can classify them.
+- **Unsupervised Modeling**: We generate the unsupervised classification model that allows us to better understand the types of leads we are capturing.
 - **Variable preselection**: We select the most predictive variables. To do this, we choose the most reliable result among those obtained through the methods of Mutual Information, Recursive Feature Elimination, and Permutation Importance.
 - **Modeling for regression**: We test the modeling process by first applying it to a single product. Then, we test the process on the entire set and verify that the results align with expectations.
 - **Preparation of production code**: we combine all previously developed code, including the modeling, and make it ready for deployment.
