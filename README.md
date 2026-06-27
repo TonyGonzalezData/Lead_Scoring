@@ -19,7 +19,7 @@ Additionally, as added value, we will perform an unsupervised segmentation that 
 > [!NOTE]  
 > The entire project was developed in Spanish.
 > 
-> You can access the notebooks directly in this [folder](https://github.com/TonyGonzalezData/Forecasting_Retail/tree/main/03_Notebooks/02_Desarrollo).
+> You can access the notebooks directly in this [folder](https://github.com/TonyGonzalezData/Lead_Scoring/tree/main/03_Notebooks/02_Desarrollo).
 
 
 ## Project Structure
